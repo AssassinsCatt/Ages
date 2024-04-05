@@ -1,0 +1,4 @@
+Frontend als Website und die Funktionen werden mit js geschrieben
+
+Backend zur Verbindung mit der Datenbank (mit API)
+Datenbank um Daten zu speichen und Aufzurufen
