@@ -1,3 +1,3 @@
 git add .
-git commit -m "Bug/Verbesserungs update"
+git commit -m "Batch update"
 git push origin main
